@@ -13,6 +13,14 @@
 
 ### 🏠 [Homepage](https://velog.io/@maketheworldwise/%EB%8B%A4%EA%B5%AD%EC%96%B4-%EC%B2%98%EB%A6%AC%EC%9D%98-%EB%AA%A8%EB%93%A0-%EA%B2%83)
 
+## Branches
+
+브랜치는 총 3가지로 나뉘어져 있습니다.
+
+- master : SessionLocaleResolver, lang 파라미터 방식
+- accept-header : AcceptHeaderLocaleResolver, Accept-Language 헤더 방식
+- yaml-management : Yaml 확장자 프로퍼티 파일로 관리하는 방식 (문제 있음)
+
 ## Author
 
 👤 **kevin**
