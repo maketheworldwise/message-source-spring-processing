@@ -11,7 +11,7 @@
 
 > Spring Boot Gradle을 이용하여 다국어 처리 기능을 구현한 프로젝트입니다.
 
-### 🏠 [Homepage](https://velog.io/@maketheworldwise/%EA%B0%9C%EB%B0%9C%ED%95%A0-%EB%95%8C-%ED%95%84%EC%9A%94%ED%95%9C-%EB%8B%A4%EA%B5%AD%EC%96%B4-%EC%B2%98%EB%A6%AC%EC%9D%98-%EB%AA%A8%EB%93%A0-%EA%B2%83)
+### 🏠 [Homepage](https://velog.io/@maketheworldwise/%EB%8B%A4%EA%B5%AD%EC%96%B4-%EC%B2%98%EB%A6%AC%EC%9D%98-%EB%AA%A8%EB%93%A0-%EA%B2%83)
 
 ## Author
 
